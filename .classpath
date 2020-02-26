@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/ECLIPSE/Libraries/jfoenix-8.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/ECLIPSE/Libraries/fontawesomefx-glyphsbrowser-1.3.0/lib/fontawesomefx-commons-8.15.jar"/>
+	<classpathentry kind="lib" path="C:/ECLIPSE/Libraries/fontawesomefx-glyphsbrowser-1.3.0/lib/fontawesomefx-fontawesome-4.7.0-5.jar"/>
+	<classpathentry kind="lib" path="C:/ECLIPSE/Libraries/db-derby-10.14.2.0-bin/lib/derby.jar"/>
+	<classpathentry kind="lib" path="C:/ECLIPSE/Libraries/db-derby-10.14.2.0-bin/lib/derbyclient.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
